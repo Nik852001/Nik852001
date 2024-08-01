@@ -1,13 +1,22 @@
 <h2 align="left">Hi 👋! My name is Nikhil Mandavkar and I'm a Fresher Graduate, from Pune.</h2>
 
+- 🔭 I’m currently working on **Social Media Blog API Project**
+
+- 🌱 I’m currently learning **Java ,Spring ,Javalin and Database**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Nik852001](https://github.com/Nik852001)
+
+- 💬 Ask me about **MySQL, JAVA , Python**
+
 ###
 
+<h2><i>My GitHub Stats</i></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nik852001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nik852001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### <h2>👨🏻‍💻<i> Languages And FrameWork</i></h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,6 +42,8 @@
 
 ###
 
+<h2><i>Let's Connect</i></h2>
+
 <div align="center">
   <a href="nikhilmandavkar8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -48,6 +59,8 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+### Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik852001" alt="nik852001" /></a> </p>
+
+
